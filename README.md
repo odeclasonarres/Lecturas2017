@@ -15,4 +15,5 @@ Listado de libros y artículos leídos este 2017
  - [¿Multiculturalismo o Cultura Mundial?: Acerca de una respuesta de «izquierda» ante la descomposición social contemporánea.](http://breaktheirhaughtypower.org/multiculturalismo-o-cultura-mundial-acerca-de-una-respuesta-de-izquierda-ante-la-descomposicion-social-contemporanea/)
  - [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley (PENDIENTE)
  - [Tolkien como anticapitalista, o de cómo el mercado libre es incapaz de hacer literatura](https://lacavernadefilosofia.wordpress.com/2013/12/27/tolkien-como-anticapitalista-o-de-como-el-mercado-libre-es-incapaz-de-hacer-literatura/) - La Caverna 
+ - [Creatividad: el gran timo cultural del siglo XXI](http://www.elconfidencial.com/cultura/2016-07-05/creatividad-desigualdad-paradojas-de-lo-cool_1226078/)
  
