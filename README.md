@@ -19,7 +19,7 @@ Listado de libros y artículos leídos este 2017
  
  #### Pendientes
 - [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley (PENDIENTE)
-- [Aspectos políticos del pleno empleo] (http://www.olafinanciera.unam.mx/new_web/21/pdfs/KaleckiOlaFinanciera21.pdf) - Michal Kalecki
-- [Sobre la génesis del especismo: hacia un enfoque político de la relación humano-animal] (https://a-antiespecista.com/2016/12/11/sobre-la-genesis-del-especismo-hacia-un-enfoque-politico-de-la-relacion-humano-animal-por-marco-maurizi/) - Alerta Antiespecista.
-- [Tú no eres ciudadano del mundo, tú eres gilipollas] (http://www.yonlok.com/no-eres-ciudadano-del-mundo/) 
+- [Aspectos políticos del pleno empleo](http://www.olafinanciera.unam.mx/new_web/21/pdfs/KaleckiOlaFinanciera21.pdf) - Michal Kalecki
+- [Sobre la génesis del especismo: hacia un enfoque político de la relación humano-animal](https://a-antiespecista.com/2016/12/11/sobre-la-genesis-del-especismo-hacia-un-enfoque-politico-de-la-relacion-humano-animal-por-marco-maurizi/) - Alerta Antiespecista.
+- [Tú no eres ciudadano del mundo, tú eres gilipollas](http://www.yonlok.com/no-eres-ciudadano-del-mundo/) 
  
