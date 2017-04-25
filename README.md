@@ -17,7 +17,7 @@ Listado de libros y artículos leídos este 2017
  - [Tolkien como anticapitalista, o de cómo el mercado libre es incapaz de hacer literatura](https://lacavernadefilosofia.wordpress.com/2013/12/27/tolkien-como-anticapitalista-o-de-como-el-mercado-libre-es-incapaz-de-hacer-literatura/) - La Caverna 
  - [Creatividad: el gran timo cultural del siglo XXI](http://www.elconfidencial.com/cultura/2016-07-05/creatividad-desigualdad-paradojas-de-lo-cool_1226078/)
  
- #### Pendientes
+#### Pendientes
 - [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley (PENDIENTE)
 - [Aspectos políticos del pleno empleo](http://www.olafinanciera.unam.mx/new_web/21/pdfs/KaleckiOlaFinanciera21.pdf) - Michal Kalecki
 - [Sobre la génesis del especismo: hacia un enfoque político de la relación humano-animal](https://a-antiespecista.com/2016/12/11/sobre-la-genesis-del-especismo-hacia-un-enfoque-politico-de-la-relacion-humano-animal-por-marco-maurizi/) - Alerta Antiespecista.
