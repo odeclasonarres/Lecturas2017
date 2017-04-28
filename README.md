@@ -19,6 +19,7 @@ Listado de libros y artículos leídos este 2017
  - [¿Tourist go home?](http://www.eldiario.es/zonacritica/turistificacion_airbnb_gentrificacion_6_632796722.html) - Isaac Rosa
  - [Tú no eres ciudadano del mundo, tú eres gilipollas](http://www.yonlok.com/no-eres-ciudadano-del-mundo/)
  - [El PCF y las clases populares desde los años 70](http://www.jaimelago.org/node/146) - Michael Verbauwhede
+ - [No estamos todos, faltan los trabajadores muertos](http://www.eldiario.es/zonacritica/trabajadores_muertos_accidentes_6_637696235.html) - Isaac Rosa
 
 #### Pendientes
 - [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley (PENDIENTE)
