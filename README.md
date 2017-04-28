@@ -3,6 +3,7 @@ Listado de libros y artículos leídos este 2017
 
 
 ### Libros
+ - ['La bolchevique enamorada'](https://docs.google.com/file/d/0Bw5Zm10Cq88HMjY2MGVjZGQtNzQ5My00YTM3LTg4NjYtNTM3NzBjOGYzZDg0/edit) - Aleksandra Kollontai
  - ['Principios elementales de filosofía'](http://archivo.juventudes.org/textos/Georges%20Politzer/Principios%20Elementales%20de%20Filosofia.pdf) - George Politzer.
  - 'Si llegan por ti en la mañana...vendrán por nosotros en la noche' - Angela Y.Davis y otros perseguidos políticos.[En curso]
  - ['Tesis de Abril'](http://www.pcandalucia.org/wp-content/uploads/2017/04/tesis-de-abril-libre-distribucio%CC%81n.pdf) - Lenin.
