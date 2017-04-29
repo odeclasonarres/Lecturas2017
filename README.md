@@ -3,6 +3,7 @@ Listado de libros y artículos leídos este 2017
 
 
 ### Libros
+ - ['La bolchevique enamorada'](https://docs.google.com/file/d/0Bw5Zm10Cq88HMjY2MGVjZGQtNzQ5My00YTM3LTg4NjYtNTM3NzBjOGYzZDg0/edit) - Aleksandra Kollontai
  - ['Principios elementales de filosofía'](http://archivo.juventudes.org/textos/Georges%20Politzer/Principios%20Elementales%20de%20Filosofia.pdf) - George Politzer.
  - 'Si llegan por ti en la mañana...vendrán por nosotros en la noche' - Angela Y.Davis y otros perseguidos políticos.[En curso]
  - ['Tesis de Abril'](http://www.pcandalucia.org/wp-content/uploads/2017/04/tesis-de-abril-libre-distribucio%CC%81n.pdf) - Lenin.
@@ -18,6 +19,8 @@ Listado de libros y artículos leídos este 2017
  - [¿Tourist go home?](http://www.eldiario.es/zonacritica/turistificacion_airbnb_gentrificacion_6_632796722.html) - Isaac Rosa
  - [Tú no eres ciudadano del mundo, tú eres gilipollas](http://www.yonlok.com/no-eres-ciudadano-del-mundo/)
  - [El PCF y las clases populares desde los años 70](http://www.jaimelago.org/node/146) - Michael Verbauwhede
+ - [No estamos todos, faltan los trabajadores muertos](http://www.eldiario.es/zonacritica/trabajadores_muertos_accidentes_6_637696235.html) - Isaac Rosa
+ - [Así funciona la especulación inmobiliaria en Barcelona](http://www.huffingtonpost.es/2017/03/29/asi-funciona-la-especulacion-inmobiliaria-en-barcelona_a_22017385/) - Pol Pareja
 
 #### Pendientes
 - [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley (PENDIENTE)
