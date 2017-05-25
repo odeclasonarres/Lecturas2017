@@ -7,7 +7,7 @@ Listado de libros y artículos leídos este 2017
  - ['Principios elementales de filosofía'](http://archivo.juventudes.org/textos/Georges%20Politzer/Principios%20Elementales%20de%20Filosofia.pdf) - George Politzer.
  - 'Si llegan por ti en la mañana...vendrán por nosotros en la noche' - Angela Y.Davis y otros perseguidos políticos.[En curso]
  - ['Tesis de Abril'](http://www.pcandalucia.org/wp-content/uploads/2017/04/tesis-de-abril-libre-distribucio%CC%81n.pdf) - Lenin.
- - 'La voz del fuego'(http://espapdf.com/book/la-voz-del-fuego/)- Alan Moore. [En Curso]
+ - ['La voz del fuego'](http://espapdf.com/book/la-voz-del-fuego/)- Alan Moore. [En Curso]
  - ['La lucha del movimiento obrero en Granada
 por las libertades y la democracia. Pepe Cid y Paco Portillo: dos líderes, dos puentes'](http://datos.bne.es/edicion/a5309981.html)- Alfonso Martínez Foronda. [En curso]
 
@@ -44,3 +44,4 @@ por las libertades y la democracia. Pepe Cid y Paco Portillo: dos líderes, dos 
 - [Aspectos políticos del pleno empleo](http://www.olafinanciera.unam.mx/new_web/21/pdfs/KaleckiOlaFinanciera21.pdf) - Michal Kalecki
 - [Sobre la génesis del especismo: hacia un enfoque político de la relación humano-animal](https://a-antiespecista.com/2016/12/11/sobre-la-genesis-del-especismo-hacia-un-enfoque-politico-de-la-relacion-humano-animal-por-marco-maurizi/) - Alerta Antiespecista.
 - [Josep Fontana publica 'El Siglo de la Revolución'](http://lamentable.org/siglo-revolucion-recapitulacion-y-final-abierto/) - Lluís Barbé
+- [Cuando el turismo te echa de tu casa](http://ctxt.es/es/20170517/Firmas/12838/Gentrificacion-barrios-turismo-sur-alquiler.htm)- Iago Lestegás.
