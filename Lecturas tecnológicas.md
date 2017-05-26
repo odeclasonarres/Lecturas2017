@@ -7,6 +7,7 @@
 
 #### Bitcoin
 - [Guía para Bitcoin](http://blog.bit2me.com/es/guia-bitcoin/) - Bit2Me.
+- [Como funciona el Bitcoin, la cripto-moneda](https://elbauldelprogramador.com/como-funciona-el-bitcoin-la-cripto-moneda/) - El baúl del programador.
 
 #### Contratos inteligentes(*Smart contracts*)
 - [Smart Contracts: Una guía para principiantes](http://blog.bit2me.com/es/smart-contracts/) - Bit2Me.
@@ -17,6 +18,7 @@
 ### 2. Criptografía y claves
   #### General
   - [Tipos de criptografía: simétrica, asimétrica e hibrida](https://www.genbetadev.com/seguridad-informatica/tipos-de-criptografia-simetrica-asimetrica-e-hibrida) - Genbetadev.
+  - [Crear y administrar contraseñas inteligentemente](https://elbauldelprogramador.com/good-passwords/) - El baul del programador.
 
 #### GPG(*Gnu Privacy Guard*)
   - [Manual oficial en castellano ](https://www.gnupg.org/gph/es/manual/book1.html) - GNUPG
@@ -24,3 +26,8 @@
   - [Como cifrar tu correo navideño: introducción a GPG]() - Psicobyte
 
 ### 3. Ciencia de datos
+### 4. Git y Github
+### 5. Linux y Distros
+- [TAILS LINUX y la importancia de la privacidad](https://elbauldelprogramador.com/tails-linux-importancia-privacidad/) - El baúl del programador.
+### 6. Algoritmos
+-[Algoritmos para resolver laberintos](http://www.microsiervos.com/archivo/ordenadores/algoritmos-resolver-laberintos.html) - Microsiervos
