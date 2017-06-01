@@ -4,7 +4,7 @@
 #### Ethereum
 - [¿Qué es Ethereum?](https://criptonoticias.com/informacion/que-es-ethereum/#axzz4iBhwtMsh) - Criptonoticias.
 - [Ethereum, así es la "promesa" de las criptomonedas que quiere convertirse en el nuevo Bitcoin](https://www.xataka.com/otros/ethereum-el-nuevo-bitcoin-es-algo-mas-que-una-criptomoneda) - Xataca.
-- [Ethereum, una infografá-guía introductoria](http://blog.bit2me.com/es/wp-content/uploads/sites/2/2016/02/infografia-ethereum.png) - Ethereum.
+- [Ethereum, una infografía-guía introductoria](http://blog.bit2me.com/es/wp-content/uploads/sites/2/2016/02/infografia-ethereum.png) - Ethereum.
 
 #### Bitcoin
 - [Guía para Bitcoin](http://blog.bit2me.com/es/guia-bitcoin/) - Bit2Me.
@@ -35,4 +35,4 @@
 ### 5. Linux y Distros
 - [TAILS LINUX y la importancia de la privacidad](https://elbauldelprogramador.com/tails-linux-importancia-privacidad/) - El baúl del programador.
 ### 6. Algoritmos
--[Algoritmos para resolver laberintos](http://www.microsiervos.com/archivo/ordenadores/algoritmos-resolver-laberintos.html) - Microsiervos
+- [Algoritmos para resolver laberintos](http://www.microsiervos.com/archivo/ordenadores/algoritmos-resolver-laberintos.html) - Microsiervos
