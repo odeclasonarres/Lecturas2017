@@ -1,5 +1,11 @@
 # Lecturas 2017
-Listado de libros y artículos leídos este 2017
+Listado de libros y artículos leídos este 2017.
+
+
+###### Algunas particularidades:
+ - Mis lecturas tecnológicas se pueden ver [aquí]().
+ - Recopilación de artículos de Isaac Rosa [aquí](https://github.com/odeclasonarres/Lecturas2017/blob/master/Rosa%26Bernab%C3%A9.md#artículos-de-isaac-rosa).
+ - Recopilación de artículos de Daniel Bernabé [aquí](https://github.com/odeclasonarres/Lecturas2017/blob/master/Rosa%26Bernab%C3%A9.md#artículos-de-daniel-bernabé).
 
 
 ### Libros
@@ -7,9 +13,9 @@ Listado de libros y artículos leídos este 2017
  - ['Principios elementales de filosofía'](http://archivo.juventudes.org/textos/Georges%20Politzer/Principios%20Elementales%20de%20Filosofia.pdf) - George Politzer.
  - 'Si llegan por ti en la mañana...vendrán por nosotros en la noche' - Angela Y.Davis y otros perseguidos políticos.[En curso]
  - ['Tesis de Abril'](http://www.pcandalucia.org/wp-content/uploads/2017/04/tesis-de-abril-libre-distribucio%CC%81n.pdf) - Lenin.
+ - ['La lucha del movimiento obrero en Granada por las libertades y la democracia. Pepe Cid y Paco Portillo: dos líderes, dos puentes'](http://datos.bne.es/edicion/a5309981.html)- Alfonso Martínez Foronda.
  - ['La voz del fuego'](http://espapdf.com/book/la-voz-del-fuego/)- Alan Moore. [En Curso]
- - ['La lucha del movimiento obrero en Granada
-por las libertades y la democracia. Pepe Cid y Paco Portillo: dos líderes, dos puentes'](http://datos.bne.es/edicion/a5309981.html)- Alfonso Martínez Foronda. [En curso]
+
 
 
 
@@ -33,15 +39,10 @@ por las libertades y la democracia. Pepe Cid y Paco Portillo: dos líderes, dos 
  - [Black Mirrror, o la rendición política de la socialdemocracia](http://www.polikracia.com/black-mirror-o-la-rendicion-politica-de-la-socialdemocracia/) - Fidel Oliván
  - [Mis manos, mi capital](http://letrasyotrasartes.blogspot.com.es/2012/05/mis-manos-mi-capital.html) - Letras y otras artes
 
-#### Isaac Rosa
-- Recopilación de sus artículos [aquí]().
-
-#### Daniel Bernabé
-- Recopilación de sus artículos [aquí]().
-
 #### Pendientes
-- [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley (PENDIENTE)
+- [Siempre hemos luchado: Cuestionando la literatura de “mujeres, ganado y esclavos”](http://www.fantasticaficcion.com/index.php/articulo-invitado-siempre-hemos-luchado-cuestionando-la-literatura-de-mujeres-ganado-y-esclavos-de-kameron-hurley/) - Kameron Hurley
 - [Aspectos políticos del pleno empleo](http://www.olafinanciera.unam.mx/new_web/21/pdfs/KaleckiOlaFinanciera21.pdf) - Michal Kalecki
 - [Sobre la génesis del especismo: hacia un enfoque político de la relación humano-animal](https://a-antiespecista.com/2016/12/11/sobre-la-genesis-del-especismo-hacia-un-enfoque-politico-de-la-relacion-humano-animal-por-marco-maurizi/) - Alerta Antiespecista.
 - [Josep Fontana publica 'El Siglo de la Revolución'](http://lamentable.org/siglo-revolucion-recapitulacion-y-final-abierto/) - Lluís Barbé
 - [Cuando el turismo te echa de tu casa](http://ctxt.es/es/20170517/Firmas/12838/Gentrificacion-barrios-turismo-sur-alquiler.htm)- Iago Lestegás.
+- [El doble rasero de nuestros medios para conseguir que pienses lo que ellos quieren](http://blogs.publico.es/otrasmiradas/9019/9019/) - Pascual Serrano.
