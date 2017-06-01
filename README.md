@@ -46,3 +46,4 @@ Listado de libros y artículos leídos este 2017.
 - [Josep Fontana publica 'El Siglo de la Revolución'](http://lamentable.org/siglo-revolucion-recapitulacion-y-final-abierto/) - Lluís Barbé
 - [Cuando el turismo te echa de tu casa](http://ctxt.es/es/20170517/Firmas/12838/Gentrificacion-barrios-turismo-sur-alquiler.htm)- Iago Lestegás.
 - [El doble rasero de nuestros medios para conseguir que pienses lo que ellos quieren](http://blogs.publico.es/otrasmiradas/9019/9019/) - Pascual Serrano.
+- [La discriminación de la realidad lingüística andaluza](https://laandalucia.org/la-discriminacion-de-la-realidad-linguistica-andaluza/) - Javier Martín González.
