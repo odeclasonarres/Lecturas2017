@@ -20,3 +20,4 @@
 - [Sobre los liberales](https://twitter.com/diasasaigonados/status/865140343305629697).[Hilo de Twitter]
 - [El gremio contra la 'startup'](http://www.lamarea.com/2017/05/31/gremio-la-startup/).
 - [Música nocturna entre túneles de historia](http://www.lamarea.com/2017/05/17/corrupcion-musica-nocturna-tuneles-historia/).[Pendiente]
+- [Epistemología LET](https://twitter.com/diasasaigonados/status/894591307787718656). [Hilo de Twitter]
